@@ -1,7 +1,7 @@
 name: Aerosthetics
 favicon: null
-layout_spectrum: 0.836729328148067
-typography_spectrum: 0.508889842312783
+layout_spectrum: 0
+typography_spectrum: 0.7503
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.008787124417722225
+    - '#ffffff'
+    - '#c4c4c4'
+    - '#5a595a'
+    - '#2c2a2c'
+    - '#74ccf4'
+  brandStrength: 0
   lightness: 0.4656182040926069
   saturation: 0.03348030708730221
   rhythmicContrast: 0.8693587225861847
